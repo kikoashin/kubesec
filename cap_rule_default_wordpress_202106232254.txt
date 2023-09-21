@@ -1,0 +1,3 @@
+"capability net_bind_service,"
+"capability setgid,"
+"capability setuid,"
